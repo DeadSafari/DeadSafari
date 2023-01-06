@@ -7,9 +7,9 @@ Student & Programmer
 I have been coding for around 2 years now. I started with Python and I'm still at Python. I love Python k ?
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [My Website](http://deadsafari.me)
+* 🖥️  See my portfolio at [My Website](https://deadsafari.me)
 * ✉️  You can contact me at [deadsafari@deadsafari.me](mailto:deadsafari@deadsafari.me)
-* 🚀  I'm currently working on [Mr. Bot](http://github.com/DeadSafari/Mr.-Bot)
+* 🚀  I'm currently working on [Mr. Bot](https://github.com/DeadSafari/Mr.-Bot)
 * 🧠  I'm learning Nothing
 * 🤝  I'm open to collaborating on Discord Bots
 * ⚡  k ?
@@ -31,7 +31,6 @@ src="https://img.shields.io/github/followers/DeadSafari?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DeadSafari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/DeadSafari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DeadSafari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/DeadSafari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
