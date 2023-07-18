@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student & Programmer
 --------------------
 
-I have been coding for around 2 years now. I started with Python and I'm still at Python. I love Python k ?
+I have been coding for around 2 years now. Using PHP now too (I hate myself)
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [My Website](https://deadsafari.me)
 * ✉️  You can contact me at [deadsafari@deadsafari.me](mailto:deadsafari@deadsafari.me)
-* 🚀  I'm currently working on [Mr. Bot](https://github.com/DeadSafari/Mr.-Bot)
+* 🚀  I'm currently working on [Abysmall Network](https://github.com/abysmall-network)
 * 🧠  I'm learning Nothing
 * 🤝  I'm open to collaborating on Discord Bots
 * ⚡  k ?
